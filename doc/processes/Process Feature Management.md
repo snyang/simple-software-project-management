@@ -10,4 +10,4 @@
 - closed
 
 ## Feature管理流程图
-![Process Feature Management](src/Process-Feature-Management.svg)
+![Process Feature Management](images/Process-Feature-Management.svg)

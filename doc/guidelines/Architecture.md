@@ -15,16 +15,25 @@
 - 数据的版本控制(Data History)
 - 异常处理(Exception)
 - 缓存(Cache)
+- 后台进程
+- 消息机制
 - 性能(Performance)
 - 安全(Security)
 - 日志(Logging)
+  - 各个层次方法
 - 审查(Audit)
 - 报表(Reports)
 - 导入(Import)
 - 导出(Export)
 - 打印(Print)
 - 接口(Interface)
+- 用户行为记录
 - 单元测试(Unit Tests)
 - 自动测试(Automation Tests)
 - 运维(Operation)
 - 部署(Deployment)
+
+## 业务架构
+
+- 列举核心业务
+- 针对核心业务设计架构

@@ -80,7 +80,7 @@
 - 负责收集项目的指数信息
   
 ### 架构师的职责
-- [建立软件的框架](Architecture.md)
+- [建立软件的框架](guidelines/Architecture.md)
 - 负责编辑代码规范
 - 负责开发环境配置流程
 - 负责代码版本控制流程
@@ -89,8 +89,8 @@
 
 ## 项目管理流程
 
-1. [流程：项目流程](Process%20Project.md)
-2. [流程：项目的估算](Process%20Estimation.md)
-3. [流程：Feature管理](Process%20Feature%20Management.md)
-4. [流程：Defect管理](Process%20Defect%20Management.md)
-5. [流程：产品版本管理](./Process%20Product%20Versions.md)
+1. [流程：项目流程](processes/Process%20Project.md)
+2. [流程：项目的估算](processes/Process%20Estimation.md)
+3. [流程：Feature管理](processes/Process%20Feature%20Management.md)
+4. [流程：Defect管理](processes/Process%20Defect%20Management.md)
+5. [流程：产品版本管理](processes/Process%20Product%20Versions.md)

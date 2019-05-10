@@ -22,4 +22,4 @@
   it is a bug, but we need not to fix.
 
 ## Defect管理流程图
-![Process Defect Management](src/Process-Defect-Management.svg)
+![Process Defect Management](images/Process-Defect-Management.svg)
